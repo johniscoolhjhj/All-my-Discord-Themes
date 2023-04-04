@@ -1,0 +1,52 @@
+/**
+ * @name ElexyoTheme My Theme
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+  --background-image: url('https://im4.ezgif.com/tmp/ezgif-4-7c8e113973.gif');
+  --background-image-blur: 4px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://im4.ezgif.com/tmp/ezgif-4-7c8e113973.gif');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://im4.ezgif.com/tmp/ezgif-4-7c8e113973.gif');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://im4.ezgif.com/tmp/ezgif-4-7c8e113973.gif');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.64;
+  --left-brightness: 0.36;
+  --middle-brightness: 0.72;
+  --right-brightness: 0.4;
+  --overlay-brightness: 0.75;
+  --gradient-primary: 103,58,183;
+  --gradient-secondary: 63,81,181;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 42,42,42;
+  --tint-brightness: 0.36;
+  --font: gg sans;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
